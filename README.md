@@ -1,4 +1,4 @@
-# Carousal Recyclerview with cutom Dialog 
+# Carousal Recyclerview with custom Dialog 
 
  A Custom RecyclerView with Swipeable Popup with custom directions on Java.
 
@@ -59,7 +59,8 @@ Use `SwipeDismissDirectionfinder` enum to find the direction of the swiped dialo
                 return false;
             }
 ```
-![20210514_174232](https://user-images.githubusercontent.com/71749797/118272206-e5bce280-b4df-11eb-91b7-be4d91c39664.gif)
+
+![140320210 (1)](https://user-images.githubusercontent.com/71749797/118280379-c925a800-b4e9-11eb-9293-44a4d4470d6e.gif)
 ### Author
 
 
