@@ -1,4 +1,4 @@
-# Carousal Recyclerview with cutom Dialog and Retrofit
+# Carousal Recyclerview with cutom Dialog 
 
  A Custom RecyclerView with Swipeable Popup with custom directions on Java.
 
@@ -16,7 +16,10 @@ import `CustomCarouselLayoutManager` to Main class
         layoutManager.setPostLayoutListener(new CustomZoomPostLayoutListener());
         layoutManager.isSmoothScrolling();
 ```
-![passwordanalyser](https://user-images.githubusercontent.com/71749797/113116497-21029b00-922b-11eb-9f2a-d4f6a225a8c1.gif)
+![20210514_173914](https://user-images.githubusercontent.com/71749797/118267834-3df0e600-b4da-11eb-9171-187774c09867.gif)
+
+
+
 ### Swipeable Custom Dialog.
 
 ## Usage
@@ -56,7 +59,7 @@ Use `SwipeDismissDirectionfinder` enum to find the direction of the swiped dialo
                 return false;
             }
 ```
-![passwordgenerator](https://user-images.githubusercontent.com/71749797/113116148-cc5f2000-922a-11eb-8daa-7740d29d0b9f.gif)
+![20210514_174232](https://user-images.githubusercontent.com/71749797/118272206-e5bce280-b4df-11eb-91b7-be4d91c39664.gif)
 ### Author
 
 
